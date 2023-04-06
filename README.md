@@ -5,3 +5,5 @@
 ## Diagrama ER ![image](https://user-images.githubusercontent.com/66218607/230246846-58389592-4e23-4620-b546-ba0ca9bfd00f.png)
 
 - [x] Primeira entrega - ETL para geração de tabelas Fato e Dimensão, Documentação, Diagrama ER e Dicionário de Dados.
+- [ ] Segunda entrega -
+- [ ] Terceira entrega -
