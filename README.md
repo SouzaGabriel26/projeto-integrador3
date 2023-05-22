@@ -1,7 +1,7 @@
 # ANÁLISE DE DADOS - corridas de formula 1 desde 1950 até 2023.
 
 <h2>Pergunta/Tema do projeto:</h2>
-<h3>Qual equipe de Fórmula 1 é mais provável de obter a vitória na próxima temporada, com base nos dados históricos disponíveis no conjunto de dados "<cite>Formula 1 World Championship 1950-2020</cite>"?<h3>
+<h3>"<cite>Qual a relação em fazer pit-stops abaixo da média da corrida e a sua colocação final?</cite>"?<h3>
 
 </br>
 
