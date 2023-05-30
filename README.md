@@ -1,7 +1,7 @@
 # ANÁLISE DE DADOS - corridas de formula 1 desde 1950 até 2023.
 
 <h1>Pergunta/Tema do projeto:</h1>
-<h2>"Qual a relação em fazer pit-stops abaixo da média da corrida e a sua colocação final"?<h2>
+<h2>"É possivel prever o próximo campeão da formula 1 com base em dados categóricos?"<h2>
 
 ## Filtrado por um só circuito, sendo o escolhido para o projeto o circuito de [Interlagos](https://pt.wikipedia.org/wiki/Aut%C3%B3dromo_de_Interlagos).
 
