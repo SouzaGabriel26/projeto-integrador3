@@ -1,0 +1,600 @@
+raceId,driverId,grid,positionOrder,circuitId,name,date,forename,surname,stop,lap,duration
+859,30,10,15,18,Brazilian Grand Prix,2011-11-27,Michael,Schumacher,1,10,25.481
+859,811,9,17,18,Brazilian Grand Prix,2011-11-27,Bruno,Senna,1,12,21.9
+859,808,15,10,18,Brazilian Grand Prix,2011-11-27,Vitaly,Petrov,1,13,21.169
+859,16,8,6,18,Brazilian Grand Prix,2011-11-27,Adrian,Sutil,1,14,21.097
+859,18,3,3,18,Brazilian Grand Prix,2011-11-27,Jenson,Button,1,15,22.005
+859,4,5,4,18,Brazilian Grand Prix,2011-11-27,Fernando,Alonso,1,16,20.773
+859,1,4,22,18,Brazilian Grand Prix,2011-11-27,Lewis,Hamilton,1,16,21.099
+859,3,6,7,18,Brazilian Grand Prix,2011-11-27,Nico,Rosberg,1,16,20.773
+859,22,12,14,18,Brazilian Grand Prix,2011-11-27,Rubens,Barrichello,1,16,21.537
+859,20,1,2,18,Brazilian Grand Prix,2011-11-27,Sebastian,Vettel,1,17,20.927
+859,814,11,8,18,Brazilian Grand Prix,2011-11-27,Paul,di Resta,1,17,20.745
+859,813,18,23,18,Brazilian Grand Prix,2011-11-27,Pastor,Maldonado,1,17,21.561
+859,5,19,16,18,Brazilian Grand Prix,2011-11-27,Heikki,Kovalainen,1,17,22.854
+859,17,2,1,18,Brazilian Grand Prix,2011-11-27,Mark,Webber,1,18,20.755
+859,811,9,17,18,Brazilian Grand Prix,2011-11-27,Bruno,Senna,2,18,14.029
+859,67,14,12,18,Brazilian Grand Prix,2011-11-27,Sébastien,Buemi,1,19,22.417
+859,815,17,13,18,Brazilian Grand Prix,2011-11-27,Sergio,Pérez,1,20,22.221
+859,816,23,19,18,Brazilian Grand Prix,2011-11-27,Jérôme,d'Ambrosio,1,20,21.859
+859,817,22,20,18,Brazilian Grand Prix,2011-11-27,Daniel,Ricciardo,1,20,23.473
+859,13,7,5,18,Brazilian Grand Prix,2011-11-27,Felipe,Massa,1,21,21.696
+859,155,16,9,18,Brazilian Grand Prix,2011-11-27,Kamui,Kobayashi,1,21,25.117
+859,153,13,11,18,Brazilian Grand Prix,2011-11-27,Jaime,Alguersuari,1,21,22.773
+859,24,21,21,18,Brazilian Grand Prix,2011-11-27,Vitantonio,Liuzzi,1,21,22.666
+859,10,24,24,18,Brazilian Grand Prix,2011-11-27,Timo,Glock,1,21,22.452
+859,15,20,18,18,Brazilian Grand Prix,2011-11-27,Jarno,Trulli,1,22,22.616
+859,811,9,17,18,Brazilian Grand Prix,2011-11-27,Bruno,Senna,3,28,23.289
+859,808,15,10,18,Brazilian Grand Prix,2011-11-27,Vitaly,Petrov,2,30,23.102
+859,18,3,3,18,Brazilian Grand Prix,2011-11-27,Jenson,Button,2,31,21.038
+859,16,8,6,18,Brazilian Grand Prix,2011-11-27,Adrian,Sutil,2,31,20.9
+859,5,19,16,18,Brazilian Grand Prix,2011-11-27,Heikki,Kovalainen,2,31,22.013
+859,1,4,22,18,Brazilian Grand Prix,2011-11-27,Lewis,Hamilton,2,33,20.396
+859,30,10,15,18,Brazilian Grand Prix,2011-11-27,Michael,Schumacher,2,32,20.782
+859,22,12,14,18,Brazilian Grand Prix,2011-11-27,Rubens,Barrichello,2,34,22.59
+859,4,5,4,18,Brazilian Grand Prix,2011-11-27,Fernando,Alonso,2,35,20.664
+859,17,2,1,18,Brazilian Grand Prix,2011-11-27,Mark,Webber,2,38,20.99
+859,20,1,2,18,Brazilian Grand Prix,2011-11-27,Sebastian,Vettel,2,39,20.652
+859,814,11,8,18,Brazilian Grand Prix,2011-11-27,Paul,di Resta,2,40,21.767
+859,3,6,7,18,Brazilian Grand Prix,2011-11-27,Nico,Rosberg,2,42,20.658
+859,67,14,12,18,Brazilian Grand Prix,2011-11-27,Sébastien,Buemi,2,42,22.461
+859,816,23,19,18,Brazilian Grand Prix,2011-11-27,Jérôme,d'Ambrosio,2,41,23.542
+859,817,22,20,18,Brazilian Grand Prix,2011-11-27,Daniel,Ricciardo,2,41,22.904
+859,15,20,18,18,Brazilian Grand Prix,2011-11-27,Jarno,Trulli,2,42,21.555
+859,155,16,9,18,Brazilian Grand Prix,2011-11-27,Kamui,Kobayashi,2,43,21.231
+859,1,4,22,18,Brazilian Grand Prix,2011-11-27,Lewis,Hamilton,3,44,20.681
+859,815,17,13,18,Brazilian Grand Prix,2011-11-27,Sergio,Pérez,2,44,21.337
+859,13,7,5,18,Brazilian Grand Prix,2011-11-27,Felipe,Massa,2,45,21.053
+859,16,8,6,18,Brazilian Grand Prix,2011-11-27,Adrian,Sutil,3,45,21.138
+859,808,15,10,18,Brazilian Grand Prix,2011-11-27,Vitaly,Petrov,3,45,21.781
+859,24,21,21,18,Brazilian Grand Prix,2011-11-27,Vitantonio,Liuzzi,2,45,22.996
+859,153,13,11,18,Brazilian Grand Prix,2011-11-27,Jaime,Alguersuari,2,48,21.855
+859,811,9,17,18,Brazilian Grand Prix,2011-11-27,Bruno,Senna,4,48,22.128
+859,5,19,16,18,Brazilian Grand Prix,2011-11-27,Heikki,Kovalainen,3,49,21.478
+859,18,3,3,18,Brazilian Grand Prix,2011-11-27,Jenson,Button,3,52,21.583
+859,30,10,15,18,Brazilian Grand Prix,2011-11-27,Michael,Schumacher,3,51,21.373
+859,4,5,4,18,Brazilian Grand Prix,2011-11-27,Fernando,Alonso,3,54,20.752
+859,22,12,14,18,Brazilian Grand Prix,2011-11-27,Rubens,Barrichello,3,53,21.638
+859,17,2,1,18,Brazilian Grand Prix,2011-11-27,Mark,Webber,3,58,20.781
+859,20,1,2,18,Brazilian Grand Prix,2011-11-27,Sebastian,Vettel,3,59,22.094
+879,8,8,10,18,Brazilian Grand Prix,2012-11-25,Kimi,Räikkönen,1,5,21.541
+879,30,13,7,18,Brazilian Grand Prix,2012-11-25,Michael,Schumacher,1,5,25.98
+879,155,14,9,18,Brazilian Grand Prix,2012-11-25,Kamui,Kobayashi,1,8,27.266
+879,30,13,7,18,Brazilian Grand Prix,2012-11-25,Michael,Schumacher,2,8,22.486
+879,3,9,15,18,Brazilian Grand Prix,2012-11-25,Nico,Rosberg,1,9,23.018
+879,817,15,13,18,Brazilian Grand Prix,2012-11-25,Daniel,Ricciardo,1,9,22.838
+879,17,3,4,18,Brazilian Grand Prix,2012-11-25,Mark,Webber,1,9,23.127
+879,1,1,20,18,Brazilian Grand Prix,2012-11-25,Lewis,Hamilton,1,10,24.41
+879,4,7,2,18,Brazilian Grand Prix,2012-11-25,Fernando,Alonso,1,10,22.472
+879,20,4,6,18,Brazilian Grand Prix,2012-11-25,Sebastian,Vettel,1,10,20.997
+879,814,10,19,18,Brazilian Grand Prix,2012-11-25,Paul,di Resta,1,10,28.336
+879,39,23,18,18,Brazilian Grand Prix,2012-11-25,Narain,Karthikeyan,1,13,27.113
+879,819,22,12,18,Brazilian Grand Prix,2012-11-25,Charles,Pic,1,13,24.427
+879,10,21,16,18,Brazilian Grand Prix,2012-11-25,Timo,Glock,1,14,23.251
+879,808,19,11,18,Brazilian Grand Prix,2012-11-25,Vitaly,Petrov,1,14,23.031
+879,37,24,17,18,Brazilian Grand Prix,2012-11-25,Pedro,de la Rosa,1,14,25.787
+879,13,5,3,18,Brazilian Grand Prix,2012-11-25,Felipe,Massa,1,15,22.596
+879,818,17,8,18,Brazilian Grand Prix,2012-11-25,Jean-Éric,Vergne,1,15,22.362
+879,5,20,14,18,Brazilian Grand Prix,2012-11-25,Heikki,Kovalainen,1,15,23.429
+879,30,13,7,18,Brazilian Grand Prix,2012-11-25,Michael,Schumacher,3,17,22.243
+879,1,1,20,18,Brazilian Grand Prix,2012-11-25,Lewis,Hamilton,2,18,21.606
+879,4,7,2,18,Brazilian Grand Prix,2012-11-25,Fernando,Alonso,2,18,23.0
+879,155,14,9,18,Brazilian Grand Prix,2012-11-25,Kamui,Kobayashi,2,18,24.254
+879,3,9,15,18,Brazilian Grand Prix,2012-11-25,Nico,Rosberg,2,18,21.806
+879,814,10,19,18,Brazilian Grand Prix,2012-11-25,Paul,di Resta,2,18,21.364
+879,20,4,6,18,Brazilian Grand Prix,2012-11-25,Sebastian,Vettel,2,19,22.016
+879,17,3,4,18,Brazilian Grand Prix,2012-11-25,Mark,Webber,2,19,21.232
+879,817,15,13,18,Brazilian Grand Prix,2012-11-25,Daniel,Ricciardo,2,19,21.182
+879,8,8,10,18,Brazilian Grand Prix,2012-11-25,Kimi,Räikkönen,2,19,22.731
+879,13,5,3,18,Brazilian Grand Prix,2012-11-25,Felipe,Massa,2,19,21.68
+879,10,21,16,18,Brazilian Grand Prix,2012-11-25,Timo,Glock,2,19,21.442
+879,808,19,11,18,Brazilian Grand Prix,2012-11-25,Vitaly,Petrov,2,19,27.452
+879,5,20,14,18,Brazilian Grand Prix,2012-11-25,Heikki,Kovalainen,2,19,38.291
+879,37,24,17,18,Brazilian Grand Prix,2012-11-25,Pedro,de la Rosa,2,19,26.573
+879,818,17,8,18,Brazilian Grand Prix,2012-11-25,Jean-Éric,Vergne,2,20,21.302
+879,819,22,12,18,Brazilian Grand Prix,2012-11-25,Charles,Pic,2,20,22.746
+879,39,23,18,18,Brazilian Grand Prix,2012-11-25,Narain,Karthikeyan,2,20,26.739
+879,3,9,15,18,Brazilian Grand Prix,2012-11-25,Nico,Rosberg,3,20,24.262
+879,807,6,5,18,Brazilian Grand Prix,2012-11-25,Nico,Hülkenberg,1,23,21.347
+879,18,2,1,18,Brazilian Grand Prix,2012-11-25,Jenson,Button,1,23,21.55
+879,818,17,8,18,Brazilian Grand Prix,2012-11-25,Jean-Éric,Vergne,3,29,25.976
+879,10,21,16,18,Brazilian Grand Prix,2012-11-25,Timo,Glock,3,31,23.544
+879,5,20,14,18,Brazilian Grand Prix,2012-11-25,Heikki,Kovalainen,3,37,22.721
+879,3,9,15,18,Brazilian Grand Prix,2012-11-25,Nico,Rosberg,4,50,31.768
+879,37,24,17,18,Brazilian Grand Prix,2012-11-25,Pedro,de la Rosa,3,50,25.375
+879,817,15,13,18,Brazilian Grand Prix,2012-11-25,Daniel,Ricciardo,3,51,21.444
+879,39,23,18,18,Brazilian Grand Prix,2012-11-25,Narain,Karthikeyan,3,51,23.625
+879,20,4,6,18,Brazilian Grand Prix,2012-11-25,Sebastian,Vettel,3,52,21.256
+879,8,8,10,18,Brazilian Grand Prix,2012-11-25,Kimi,Räikkönen,3,53,32.309
+879,155,14,9,18,Brazilian Grand Prix,2012-11-25,Kamui,Kobayashi,3,54,32.823
+879,30,13,7,18,Brazilian Grand Prix,2012-11-25,Michael,Schumacher,4,54,21.826999999999998
+879,20,4,6,18,Brazilian Grand Prix,2012-11-25,Sebastian,Vettel,4,54,28.932
+879,808,19,11,18,Brazilian Grand Prix,2012-11-25,Vitaly,Petrov,3,54,22.701999999999998
+879,13,5,3,18,Brazilian Grand Prix,2012-11-25,Felipe,Massa,3,55,22.427
+879,17,3,4,18,Brazilian Grand Prix,2012-11-25,Mark,Webber,3,55,21.006
+879,819,22,12,18,Brazilian Grand Prix,2012-11-25,Charles,Pic,3,55,23.082
+879,4,7,2,18,Brazilian Grand Prix,2012-11-25,Fernando,Alonso,3,56,21.862
+879,818,17,8,18,Brazilian Grand Prix,2012-11-25,Jean-Éric,Vergne,4,56,22.061
+879,37,24,17,18,Brazilian Grand Prix,2012-11-25,Pedro,de la Rosa,4,55,24.51
+879,817,15,13,18,Brazilian Grand Prix,2012-11-25,Daniel,Ricciardo,4,56,22.923000000000002
+879,18,2,1,18,Brazilian Grand Prix,2012-11-25,Jenson,Button,2,57,21.456
+879,39,23,18,18,Brazilian Grand Prix,2012-11-25,Narain,Karthikeyan,4,55,27.48
+879,807,6,5,18,Brazilian Grand Prix,2012-11-25,Nico,Hülkenberg,2,57,22.25
+879,5,20,14,18,Brazilian Grand Prix,2012-11-25,Heikki,Kovalainen,4,56,23.002
+879,10,21,16,18,Brazilian Grand Prix,2012-11-25,Timo,Glock,4,56,24.816
+879,814,10,19,18,Brazilian Grand Prix,2012-11-25,Paul,di Resta,3,57,22.389
+879,807,6,5,18,Brazilian Grand Prix,2012-11-25,Nico,Hülkenberg,3,58,14.128
+879,5,20,14,18,Brazilian Grand Prix,2012-11-25,Heikki,Kovalainen,5,59,21.849
+879,817,15,13,18,Brazilian Grand Prix,2012-11-25,Daniel,Ricciardo,5,61,21.973
+899,818,8,15,18,Brazilian Grand Prix,2013-11-24,Jean-Éric,Vergne,1,10,23.455
+899,817,7,10,18,Brazilian Grand Prix,2013-11-24,Daniel,Ricciardo,1,14,22.721
+899,5,11,14,18,Brazilian Grand Prix,2013-11-24,Heikki,Kovalainen,1,15,23.019
+899,822,13,21,18,Brazilian Grand Prix,2013-11-24,Valtteri,Bottas,1,17,24.166
+899,16,15,13,18,Brazilian Grand Prix,2013-11-24,Adrian,Sutil,1,17,23.161
+899,13,9,7,18,Brazilian Grand Prix,2013-11-24,Felipe,Massa,1,19,22.342
+899,815,19,6,18,Brazilian Grand Prix,2013-11-24,Sergio,Pérez,1,19,22.591
+899,18,14,4,18,Brazilian Grand Prix,2013-11-24,Jenson,Button,1,20,22.746
+899,807,10,8,18,Brazilian Grand Prix,2013-11-24,Nico,Hülkenberg,1,20,23.887
+899,814,12,11,18,Brazilian Grand Prix,2013-11-24,Paul,di Resta,1,20,23.237
+899,4,3,3,18,Brazilian Grand Prix,2013-11-24,Fernando,Alonso,1,21,22.755
+899,1,5,9,18,Brazilian Grand Prix,2013-11-24,Lewis,Hamilton,1,21,22.655
+899,824,21,17,18,Brazilian Grand Prix,2013-11-24,Jules,Bianchi,1,21,24.657
+899,3,2,5,18,Brazilian Grand Prix,2013-11-24,Nico,Rosberg,1,22,23.328
+899,821,17,12,18,Brazilian Grand Prix,2013-11-24,Esteban,Gutiérrez,1,22,23.857
+899,17,4,2,18,Brazilian Grand Prix,2013-11-24,Mark,Webber,1,23,25.012
+899,813,16,16,18,Brazilian Grand Prix,2013-11-24,Pastor,Maldonado,1,23,23.6
+899,20,1,1,18,Brazilian Grand Prix,2013-11-24,Sebastian,Vettel,1,24,22.51
+899,823,20,18,18,Brazilian Grand Prix,2013-11-24,Giedo,van der Garde,1,24,23.732
+899,819,18,20,18,Brazilian Grand Prix,2013-11-24,Charles,Pic,1,25,24.099
+899,820,22,19,18,Brazilian Grand Prix,2013-11-24,Max,Chilton,1,26,25.06
+899,818,8,15,18,Brazilian Grand Prix,2013-11-24,Jean-Éric,Vergne,2,28,24.183
+899,13,9,7,18,Brazilian Grand Prix,2013-11-24,Felipe,Massa,2,34,17.367
+899,5,11,14,18,Brazilian Grand Prix,2013-11-24,Heikki,Kovalainen,2,34,22.646
+899,16,15,13,18,Brazilian Grand Prix,2013-11-24,Adrian,Sutil,2,37,24.001
+899,822,13,21,18,Brazilian Grand Prix,2013-11-24,Valtteri,Bottas,2,41,23.695
+899,817,7,10,18,Brazilian Grand Prix,2013-11-24,Daniel,Ricciardo,2,42,23.34
+899,18,14,4,18,Brazilian Grand Prix,2013-11-24,Jenson,Button,2,43,23.788
+899,13,9,7,18,Brazilian Grand Prix,2013-11-24,Felipe,Massa,3,43,22.655
+899,813,16,16,18,Brazilian Grand Prix,2013-11-24,Pastor,Maldonado,2,43,26.734
+899,3,2,5,18,Brazilian Grand Prix,2013-11-24,Nico,Rosberg,2,44,22.753
+899,815,19,6,18,Brazilian Grand Prix,2013-11-24,Sergio,Pérez,2,44,22.397
+899,807,10,8,18,Brazilian Grand Prix,2013-11-24,Nico,Hülkenberg,2,46,23.237
+899,20,1,1,18,Brazilian Grand Prix,2013-11-24,Sebastian,Vettel,2,47,32.899
+899,17,4,2,18,Brazilian Grand Prix,2013-11-24,Mark,Webber,2,47,26.718
+899,818,8,15,18,Brazilian Grand Prix,2013-11-24,Jean-Éric,Vergne,3,46,23.451
+899,4,3,3,18,Brazilian Grand Prix,2013-11-24,Fernando,Alonso,2,47,22.732
+899,1,5,9,18,Brazilian Grand Prix,2013-11-24,Lewis,Hamilton,2,47,24.423
+899,814,12,11,18,Brazilian Grand Prix,2013-11-24,Paul,di Resta,2,47,23.33
+899,821,17,12,18,Brazilian Grand Prix,2013-11-24,Esteban,Gutiérrez,2,47,23.138
+899,823,20,18,18,Brazilian Grand Prix,2013-11-24,Giedo,van der Garde,2,47,27.107
+899,824,21,17,18,Brazilian Grand Prix,2013-11-24,Jules,Bianchi,2,47,23.403
+899,820,22,19,18,Brazilian Grand Prix,2013-11-24,Max,Chilton,2,48,23.449
+899,1,5,9,18,Brazilian Grand Prix,2013-11-24,Lewis,Hamilton,3,52,17.385
+899,823,20,18,18,Brazilian Grand Prix,2013-11-24,Giedo,van der Garde,3,52,17.339
+899,16,15,13,18,Brazilian Grand Prix,2013-11-24,Adrian,Sutil,3,54,22.981
+899,820,22,19,18,Brazilian Grand Prix,2013-11-24,Max,Chilton,3,66,23.222
+917,813,16,12,18,Brazilian Grand Prix,2014-11-09,Pastor,Maldonado,1,4,23.753
+917,13,3,3,18,Brazilian Grand Prix,2014-11-09,Felipe,Massa,1,5,23.22
+917,815,18,15,18,Brazilian Grand Prix,2014-11-09,Sergio,Pérez,1,5,23.467
+917,822,4,10,18,Brazilian Grand Prix,2014-11-09,Valtteri,Bottas,1,6,23.294
+917,18,5,4,18,Brazilian Grand Prix,2014-11-09,Jenson,Button,1,6,23.018
+917,20,6,5,18,Brazilian Grand Prix,2014-11-09,Sebastian,Vettel,1,6,23.808
+917,3,1,1,18,Brazilian Grand Prix,2014-11-09,Nico,Rosberg,1,7,23.73
+917,825,7,9,18,Brazilian Grand Prix,2014-11-09,Kevin,Magnussen,1,7,23.061
+917,4,8,6,18,Brazilian Grand Prix,2014-11-09,Fernando,Alonso,1,7,23.278
+917,817,9,18,18,Brazilian Grand Prix,2014-11-09,Daniel,Ricciardo,1,7,23.141
+917,1,2,2,18,Brazilian Grand Prix,2014-11-09,Lewis,Hamilton,1,8,23.351
+917,821,11,14,18,Brazilian Grand Prix,2014-11-09,Esteban,Gutiérrez,1,8,23.661
+917,8,10,7,18,Brazilian Grand Prix,2014-11-09,Kimi,Räikkönen,1,8,23.427
+917,818,15,13,18,Brazilian Grand Prix,2014-11-09,Jean-Éric,Vergne,1,9,23.782
+917,807,12,8,18,Brazilian Grand Prix,2014-11-09,Nico,Hülkenberg,1,16,23.554
+917,826,17,11,18,Brazilian Grand Prix,2014-11-09,Daniil,Kvyat,1,18,25.001
+917,16,13,16,18,Brazilian Grand Prix,2014-11-09,Adrian,Sutil,1,18,29.465
+917,20,6,5,18,Brazilian Grand Prix,2014-11-09,Sebastian,Vettel,2,24,23.195
+917,154,14,17,18,Brazilian Grand Prix,2014-11-09,Romain,Grosjean,1,24,25.591
+917,13,3,3,18,Brazilian Grand Prix,2014-11-09,Felipe,Massa,2,25,30.084
+917,815,18,15,18,Brazilian Grand Prix,2014-11-09,Sergio,Pérez,2,25,22.997
+917,3,1,1,18,Brazilian Grand Prix,2014-11-09,Nico,Rosberg,2,26,23.346
+917,822,4,10,18,Brazilian Grand Prix,2014-11-09,Valtteri,Bottas,2,26,35.284
+917,825,7,9,18,Brazilian Grand Prix,2014-11-09,Kevin,Magnussen,2,26,24.19
+917,18,5,4,18,Brazilian Grand Prix,2014-11-09,Jenson,Button,2,27,22.62
+917,817,9,18,18,Brazilian Grand Prix,2014-11-09,Daniel,Ricciardo,2,27,22.871
+917,821,11,14,18,Brazilian Grand Prix,2014-11-09,Esteban,Gutiérrez,2,27,24.267
+917,818,15,13,18,Brazilian Grand Prix,2014-11-09,Jean-Éric,Vergne,2,27,24.408
+917,813,16,12,18,Brazilian Grand Prix,2014-11-09,Pastor,Maldonado,2,27,22.865
+917,1,2,2,18,Brazilian Grand Prix,2014-11-09,Lewis,Hamilton,2,28,24.224
+917,4,8,6,18,Brazilian Grand Prix,2014-11-09,Fernando,Alonso,2,28,23.134
+917,8,10,7,18,Brazilian Grand Prix,2014-11-09,Kimi,Räikkönen,2,35,27.934
+917,807,12,8,18,Brazilian Grand Prix,2014-11-09,Nico,Hülkenberg,2,36,23.323
+917,826,17,11,18,Brazilian Grand Prix,2014-11-09,Daniil,Kvyat,2,38,24.385
+917,16,13,16,18,Brazilian Grand Prix,2014-11-09,Adrian,Sutil,2,39,24.302
+917,154,14,17,18,Brazilian Grand Prix,2014-11-09,Romain,Grosjean,2,40,23.023
+917,822,4,10,18,Brazilian Grand Prix,2014-11-09,Valtteri,Bottas,3,42,26.463
+917,813,16,12,18,Brazilian Grand Prix,2014-11-09,Pastor,Maldonado,3,45,23.09
+917,818,15,13,18,Brazilian Grand Prix,2014-11-09,Jean-Éric,Vergne,3,46,24.002
+917,825,7,9,18,Brazilian Grand Prix,2014-11-09,Kevin,Magnussen,3,47,24.131
+917,815,18,15,18,Brazilian Grand Prix,2014-11-09,Sergio,Pérez,3,47,30.067
+917,20,6,5,18,Brazilian Grand Prix,2014-11-09,Sebastian,Vettel,3,48,22.746
+917,821,11,14,18,Brazilian Grand Prix,2014-11-09,Esteban,Gutiérrez,3,48,23.418
+917,3,1,1,18,Brazilian Grand Prix,2014-11-09,Nico,Rosberg,3,50,23.24
+917,16,13,16,18,Brazilian Grand Prix,2014-11-09,Adrian,Sutil,3,49,24.853
+917,13,3,3,18,Brazilian Grand Prix,2014-11-09,Felipe,Massa,3,50,26.918
+917,18,5,4,18,Brazilian Grand Prix,2014-11-09,Jenson,Button,3,50,23.383
+917,1,2,2,18,Brazilian Grand Prix,2014-11-09,Lewis,Hamilton,3,51,22.874
+917,4,8,6,18,Brazilian Grand Prix,2014-11-09,Fernando,Alonso,3,52,23.077
+917,826,17,11,18,Brazilian Grand Prix,2014-11-09,Daniil,Kvyat,3,59,24.726
+917,154,14,17,18,Brazilian Grand Prix,2014-11-09,Romain,Grosjean,3,59,23.197
+917,807,12,8,18,Brazilian Grand Prix,2014-11-09,Nico,Hülkenberg,3,60,23.411
+944,817,19,11,18,Brazilian Grand Prix,2015-11-15,Daniel,Ricciardo,1,3,23.937
+944,807,5,6,18,Brazilian Grand Prix,2015-11-15,Nico,Hülkenberg,1,9,24.009
+944,826,6,7,18,Brazilian Grand Prix,2015-11-15,Daniil,Kvyat,1,10,24.155
+944,13,8,20,18,Brazilian Grand Prix,2015-11-15,Felipe,Massa,1,10,23.887
+944,815,11,12,18,Brazilian Grand Prix,2015-11-15,Sergio,Pérez,1,10,23.854
+944,154,14,8,18,Brazilian Grand Prix,2015-11-15,Romain,Grosjean,1,10,24.475
+944,822,7,5,18,Brazilian Grand Prix,2015-11-15,Valtteri,Bottas,1,11,23.736
+944,830,9,9,18,Brazilian Grand Prix,2015-11-15,Max,Verstappen,1,11,24.166
+944,8,4,4,18,Brazilian Grand Prix,2015-11-15,Kimi,Räikkönen,1,12,23.293
+944,18,16,14,18,Brazilian Grand Prix,2015-11-15,Jenson,Button,1,12,23.242
+944,828,12,16,18,Brazilian Grand Prix,2015-11-15,Marcus,Ericsson,1,12,24.699
+944,3,1,1,18,Brazilian Grand Prix,2015-11-15,Nico,Rosberg,1,13,25.039
+944,20,3,3,18,Brazilian Grand Prix,2015-11-15,Sebastian,Vettel,1,13,23.801
+944,4,20,15,18,Brazilian Grand Prix,2015-11-15,Fernando,Alonso,1,13,22.981
+944,1,2,2,18,Brazilian Grand Prix,2015-11-15,Lewis,Hamilton,1,14,24.328
+944,831,13,13,18,Brazilian Grand Prix,2015-11-15,Felipe,Nasr,1,14,25.529
+944,834,17,18,18,Brazilian Grand Prix,2015-11-15,Alexander,Rossi,1,14,25.492
+944,829,18,17,18,Brazilian Grand Prix,2015-11-15,Will,Stevens,1,15,25.547
+944,813,15,10,18,Brazilian Grand Prix,2015-11-15,Pastor,Maldonado,1,25,24.115
+944,817,19,11,18,Brazilian Grand Prix,2015-11-15,Daniel,Ricciardo,2,28,23.979
+944,18,16,14,18,Brazilian Grand Prix,2015-11-15,Jenson,Button,2,31,24.265
+944,20,3,3,18,Brazilian Grand Prix,2015-11-15,Sebastian,Vettel,2,32,23.474
+944,3,1,1,18,Brazilian Grand Prix,2015-11-15,Nico,Rosberg,2,33,23.321
+944,4,20,15,18,Brazilian Grand Prix,2015-11-15,Fernando,Alonso,2,32,23.218
+944,828,12,16,18,Brazilian Grand Prix,2015-11-15,Marcus,Ericsson,2,32,29.148
+944,815,11,12,18,Brazilian Grand Prix,2015-11-15,Sergio,Pérez,2,33,23.609
+944,1,2,2,18,Brazilian Grand Prix,2015-11-15,Lewis,Hamilton,2,34,23.148
+944,830,9,9,18,Brazilian Grand Prix,2015-11-15,Max,Verstappen,2,34,24.153
+944,807,5,6,18,Brazilian Grand Prix,2015-11-15,Nico,Hülkenberg,2,35,24.199
+944,154,14,8,18,Brazilian Grand Prix,2015-11-15,Romain,Grosjean,2,35,23.787
+944,13,8,20,18,Brazilian Grand Prix,2015-11-15,Felipe,Massa,2,38,23.927
+944,826,6,7,18,Brazilian Grand Prix,2015-11-15,Daniil,Kvyat,2,39,23.63
+944,831,13,13,18,Brazilian Grand Prix,2015-11-15,Felipe,Nasr,2,39,24.491
+944,822,7,5,18,Brazilian Grand Prix,2015-11-15,Valtteri,Bottas,2,41,24.913
+944,829,18,17,18,Brazilian Grand Prix,2015-11-15,Will,Stevens,2,40,27.095
+944,834,17,18,18,Brazilian Grand Prix,2015-11-15,Alexander,Rossi,2,41,26.706
+944,813,15,10,18,Brazilian Grand Prix,2015-11-15,Pastor,Maldonado,2,44,30.082
+944,8,4,4,18,Brazilian Grand Prix,2015-11-15,Kimi,Räikkönen,2,46,25.308
+944,20,3,3,18,Brazilian Grand Prix,2015-11-15,Sebastian,Vettel,3,47,23.861
+944,3,1,1,18,Brazilian Grand Prix,2015-11-15,Nico,Rosberg,3,48,23.046
+944,1,2,2,18,Brazilian Grand Prix,2015-11-15,Lewis,Hamilton,3,49,22.936
+944,815,11,12,18,Brazilian Grand Prix,2015-11-15,Sergio,Pérez,3,51,23.732
+944,18,16,14,18,Brazilian Grand Prix,2015-11-15,Jenson,Button,3,51,23.402
+944,817,19,11,18,Brazilian Grand Prix,2015-11-15,Daniel,Ricciardo,3,52,24.775
+944,4,20,15,18,Brazilian Grand Prix,2015-11-15,Fernando,Alonso,3,52,23.81
+944,830,9,9,18,Brazilian Grand Prix,2015-11-15,Max,Verstappen,3,53,24.078
+944,828,12,16,18,Brazilian Grand Prix,2015-11-15,Marcus,Ericsson,3,53,25.102
+944,154,14,8,18,Brazilian Grand Prix,2015-11-15,Romain,Grosjean,3,54,23.958
+944,13,8,20,18,Brazilian Grand Prix,2015-11-15,Felipe,Massa,3,55,23.401
+967,825,18,14,18,Brazilian Grand Prix,2016-11-13,Kevin,Magnussen,1,7,24.986
+967,18,17,16,18,Brazilian Grand Prix,2016-11-13,Jenson,Button,1,8,24.192
+967,4,10,10,18,Brazilian Grand Prix,2016-11-13,Fernando,Alonso,1,9,24.821
+967,822,11,11,18,Brazilian Grand Prix,2016-11-13,Valtteri,Bottas,1,9,24.724
+967,13,13,18,18,Brazilian Grand Prix,2016-11-13,Felipe,Massa,1,9,29.421
+967,826,14,13,18,Brazilian Grand Prix,2016-11-13,Daniil,Kvyat,1,9,25.758
+967,835,16,19,18,Brazilian Grand Prix,2016-11-13,Jolyon,Palmer,1,9,24.745
+967,828,20,21,18,Brazilian Grand Prix,2016-11-13,Marcus,Ericsson,1,9,25.395
+967,20,5,5,18,Brazilian Grand Prix,2016-11-13,Sebastian,Vettel,1,10,29.981
+967,821,12,17,18,Brazilian Grand Prix,2016-11-13,Esteban,Gutiérrez,1,12,25.147
+967,830,4,3,18,Brazilian Grand Prix,2016-11-13,Max,Verstappen,1,13,24.186
+967,817,6,8,18,Brazilian Grand Prix,2016-11-13,Daniel,Ricciardo,1,13,24.623
+967,826,14,13,18,Brazilian Grand Prix,2016-11-13,Daniil,Kvyat,2,17,25.355
+967,835,16,19,18,Brazilian Grand Prix,2016-11-13,Jolyon,Palmer,2,17,24.656
+967,1,1,1,18,Brazilian Grand Prix,2016-11-13,Lewis,Hamilton,1,20,2010.361
+967,3,2,2,18,Brazilian Grand Prix,2016-11-13,Nico,Rosberg,1,20,2009.747
+967,830,4,3,18,Brazilian Grand Prix,2016-11-13,Max,Verstappen,2,20,2009.643
+967,807,8,7,18,Brazilian Grand Prix,2016-11-13,Nico,Hülkenberg,1,20,2008.504
+967,815,9,4,18,Brazilian Grand Prix,2016-11-13,Sergio,Pérez,1,20,2008.398
+967,832,15,6,18,Brazilian Grand Prix,2016-11-13,Carlos,Sainz,1,20,2008.828
+967,831,21,9,18,Brazilian Grand Prix,2016-11-13,Felipe,Nasr,1,20,2008.206
+967,817,6,8,18,Brazilian Grand Prix,2016-11-13,Daniel,Ricciardo,2,20,2008.6
+967,839,22,12,18,Brazilian Grand Prix,2016-11-13,Esteban,Ocon,1,20,2009.052
+967,836,19,15,18,Brazilian Grand Prix,2016-11-13,Pascal,Wehrlein,1,20,2008.464
+967,4,10,10,18,Brazilian Grand Prix,2016-11-13,Fernando,Alonso,2,20,2008.789
+967,822,11,11,18,Brazilian Grand Prix,2016-11-13,Valtteri,Bottas,2,20,2008.595
+967,825,18,14,18,Brazilian Grand Prix,2016-11-13,Kevin,Magnussen,2,20,2008.979
+967,18,17,16,18,Brazilian Grand Prix,2016-11-13,Jenson,Button,2,20,2010.062
+967,20,5,5,18,Brazilian Grand Prix,2016-11-13,Sebastian,Vettel,2,20,2010.637
+967,13,13,18,18,Brazilian Grand Prix,2016-11-13,Felipe,Massa,2,20,2009.63
+967,821,12,17,18,Brazilian Grand Prix,2016-11-13,Esteban,Gutiérrez,2,20,2011.147
+967,826,14,13,18,Brazilian Grand Prix,2016-11-13,Daniil,Kvyat,3,20,2011.266
+967,807,8,7,18,Brazilian Grand Prix,2016-11-13,Nico,Hülkenberg,2,22,24.282
+967,1,1,1,18,Brazilian Grand Prix,2016-11-13,Lewis,Hamilton,2,28,1482.048
+967,3,2,2,18,Brazilian Grand Prix,2016-11-13,Nico,Rosberg,2,28,1481.624
+967,830,4,3,18,Brazilian Grand Prix,2016-11-13,Max,Verstappen,3,28,1481.433
+967,815,9,4,18,Brazilian Grand Prix,2016-11-13,Sergio,Pérez,2,28,1482.29
+967,832,15,6,18,Brazilian Grand Prix,2016-11-13,Carlos,Sainz,2,28,1483.053
+967,831,21,9,18,Brazilian Grand Prix,2016-11-13,Felipe,Nasr,2,28,1483.214
+967,817,6,8,18,Brazilian Grand Prix,2016-11-13,Daniel,Ricciardo,3,28,1484.725
+967,839,22,12,18,Brazilian Grand Prix,2016-11-13,Esteban,Ocon,2,28,1485.092
+967,836,19,15,18,Brazilian Grand Prix,2016-11-13,Pascal,Wehrlein,2,28,1484.979
+967,4,10,10,18,Brazilian Grand Prix,2016-11-13,Fernando,Alonso,3,28,1483.818
+967,822,11,11,18,Brazilian Grand Prix,2016-11-13,Valtteri,Bottas,3,28,1483.957
+967,825,18,14,18,Brazilian Grand Prix,2016-11-13,Kevin,Magnussen,3,28,1484.474
+967,18,17,16,18,Brazilian Grand Prix,2016-11-13,Jenson,Button,3,28,1484.987
+967,20,5,5,18,Brazilian Grand Prix,2016-11-13,Sebastian,Vettel,3,28,1483.923
+967,807,8,7,18,Brazilian Grand Prix,2016-11-13,Nico,Hülkenberg,3,28,1485.304
+967,13,13,18,18,Brazilian Grand Prix,2016-11-13,Felipe,Massa,3,28,1485.969
+967,821,12,17,18,Brazilian Grand Prix,2016-11-13,Esteban,Gutiérrez,3,28,1484.444
+967,826,14,13,18,Brazilian Grand Prix,2016-11-13,Daniil,Kvyat,4,28,1484.388
+967,13,13,18,18,Brazilian Grand Prix,2016-11-13,Felipe,Massa,4,31,29.754
+967,18,17,16,18,Brazilian Grand Prix,2016-11-13,Jenson,Button,4,34,25.006
+967,822,11,11,18,Brazilian Grand Prix,2016-11-13,Valtteri,Bottas,4,38,24.994
+967,817,6,8,18,Brazilian Grand Prix,2016-11-13,Daniel,Ricciardo,4,40,29.621
+967,825,18,14,18,Brazilian Grand Prix,2016-11-13,Kevin,Magnussen,4,41,24.265
+967,830,4,3,18,Brazilian Grand Prix,2016-11-13,Max,Verstappen,4,43,24.435
+967,18,17,16,18,Brazilian Grand Prix,2016-11-13,Jenson,Button,5,44,24.754
+967,821,12,17,18,Brazilian Grand Prix,2016-11-13,Esteban,Gutiérrez,4,47,17.835
+967,817,6,8,18,Brazilian Grand Prix,2016-11-13,Daniel,Ricciardo,5,52,24.521
+967,836,19,15,18,Brazilian Grand Prix,2016-11-13,Pascal,Wehrlein,3,52,25.509
+967,830,4,3,18,Brazilian Grand Prix,2016-11-13,Max,Verstappen,5,54,24.041
+987,20,2,1,18,Brazilian Grand Prix,2017-11-12,Sebastian,Vettel,1,1,19.097
+987,822,1,2,18,Brazilian Grand Prix,2017-11-12,Valtteri,Bottas,1,1,18.717
+987,8,3,3,18,Brazilian Grand Prix,2017-11-12,Kimi,Räikkönen,1,1,19.433
+987,830,4,5,18,Brazilian Grand Prix,2017-11-12,Max,Verstappen,1,1,18.826999999999998
+987,4,6,8,18,Brazilian Grand Prix,2017-11-12,Fernando,Alonso,1,1,18.487
+987,13,9,7,18,Brazilian Grand Prix,2017-11-12,Felipe,Massa,1,1,18.238
+987,815,5,9,18,Brazilian Grand Prix,2017-11-12,Sergio,Pérez,1,1,18.417
+987,807,7,10,18,Brazilian Grand Prix,2017-11-12,Nico,Hülkenberg,1,1,18.927
+987,832,8,11,18,Brazilian Grand Prix,2017-11-12,Carlos,Sainz,1,1,19.208
+987,842,19,12,18,Brazilian Grand Prix,2017-11-12,Pierre,Gasly,1,1,19.43
+987,828,17,13,18,Brazilian Grand Prix,2017-11-12,Marcus,Ericsson,1,1,19.603
+987,843,18,17,18,Brazilian Grand Prix,2017-11-12,Brendon,Hartley,1,1,19.936
+987,840,16,16,18,Brazilian Grand Prix,2017-11-12,Lance,Stroll,1,1,20.146
+987,836,15,14,18,Brazilian Grand Prix,2017-11-12,Pascal,Wehrlein,1,1,26.439
+987,154,11,15,18,Brazilian Grand Prix,2017-11-12,Romain,Grosjean,1,1,25.845
+987,1,20,4,18,Brazilian Grand Prix,2017-11-12,Lewis,Hamilton,1,1,19.377
+987,817,14,6,18,Brazilian Grand Prix,2017-11-12,Daniel,Ricciardo,1,1,25.946
+987,20,2,1,18,Brazilian Grand Prix,2017-11-12,Sebastian,Vettel,2,2,17.817
+987,822,1,2,18,Brazilian Grand Prix,2017-11-12,Valtteri,Bottas,2,2,17.826999999999998
+987,8,3,3,18,Brazilian Grand Prix,2017-11-12,Kimi,Räikkönen,2,2,18.027
+987,830,4,5,18,Brazilian Grand Prix,2017-11-12,Max,Verstappen,2,2,17.913
+987,4,6,8,18,Brazilian Grand Prix,2017-11-12,Fernando,Alonso,2,2,17.77
+987,13,9,7,18,Brazilian Grand Prix,2017-11-12,Felipe,Massa,2,2,17.736
+987,815,5,9,18,Brazilian Grand Prix,2017-11-12,Sergio,Pérez,2,2,17.959
+987,807,7,10,18,Brazilian Grand Prix,2017-11-12,Nico,Hülkenberg,2,2,18.549
+987,832,8,11,18,Brazilian Grand Prix,2017-11-12,Carlos,Sainz,2,2,18.604
+987,842,19,12,18,Brazilian Grand Prix,2017-11-12,Pierre,Gasly,2,2,18.855
+987,828,17,13,18,Brazilian Grand Prix,2017-11-12,Marcus,Ericsson,2,2,19.25
+987,843,18,17,18,Brazilian Grand Prix,2017-11-12,Brendon,Hartley,2,2,19.439
+987,840,16,16,18,Brazilian Grand Prix,2017-11-12,Lance,Stroll,2,2,19.27
+987,1,20,4,18,Brazilian Grand Prix,2017-11-12,Lewis,Hamilton,2,2,19.237
+987,836,15,14,18,Brazilian Grand Prix,2017-11-12,Pascal,Wehrlein,2,2,19.16
+987,154,11,15,18,Brazilian Grand Prix,2017-11-12,Romain,Grosjean,2,2,18.86
+987,817,14,6,18,Brazilian Grand Prix,2017-11-12,Daniel,Ricciardo,2,2,17.929
+987,20,2,1,18,Brazilian Grand Prix,2017-11-12,Sebastian,Vettel,3,3,17.842
+987,822,1,2,18,Brazilian Grand Prix,2017-11-12,Valtteri,Bottas,3,3,17.784
+987,8,3,3,18,Brazilian Grand Prix,2017-11-12,Kimi,Räikkönen,3,3,18.29
+987,830,4,5,18,Brazilian Grand Prix,2017-11-12,Max,Verstappen,3,3,18.017
+987,4,6,8,18,Brazilian Grand Prix,2017-11-12,Fernando,Alonso,3,3,17.716
+987,13,9,7,18,Brazilian Grand Prix,2017-11-12,Felipe,Massa,3,3,17.745
+987,815,5,9,18,Brazilian Grand Prix,2017-11-12,Sergio,Pérez,3,3,17.822
+987,807,7,10,18,Brazilian Grand Prix,2017-11-12,Nico,Hülkenberg,3,3,18.052
+987,832,8,11,18,Brazilian Grand Prix,2017-11-12,Carlos,Sainz,3,3,18.347
+987,842,19,12,18,Brazilian Grand Prix,2017-11-12,Pierre,Gasly,3,3,18.207
+987,828,17,13,18,Brazilian Grand Prix,2017-11-12,Marcus,Ericsson,3,3,17.802
+987,843,18,17,18,Brazilian Grand Prix,2017-11-12,Brendon,Hartley,3,3,17.738
+987,840,16,16,18,Brazilian Grand Prix,2017-11-12,Lance,Stroll,3,3,17.925
+987,1,20,4,18,Brazilian Grand Prix,2017-11-12,Lewis,Hamilton,3,3,18.725
+987,836,15,14,18,Brazilian Grand Prix,2017-11-12,Pascal,Wehrlein,3,3,18.764
+987,154,11,15,18,Brazilian Grand Prix,2017-11-12,Romain,Grosjean,3,3,18.456
+987,817,14,6,18,Brazilian Grand Prix,2017-11-12,Daniel,Ricciardo,3,3,18.129
+987,822,1,2,18,Brazilian Grand Prix,2017-11-12,Valtteri,Bottas,4,27,23.064
+987,13,9,7,18,Brazilian Grand Prix,2017-11-12,Felipe,Massa,4,27,23.275
+987,843,18,17,18,Brazilian Grand Prix,2017-11-12,Brendon,Hartley,4,27,23.83
+987,20,2,1,18,Brazilian Grand Prix,2017-11-12,Sebastian,Vettel,4,28,22.736
+987,830,4,5,18,Brazilian Grand Prix,2017-11-12,Max,Verstappen,4,28,23.18
+987,4,6,8,18,Brazilian Grand Prix,2017-11-12,Fernando,Alonso,4,28,23.342
+987,840,16,16,18,Brazilian Grand Prix,2017-11-12,Lance,Stroll,4,28,22.486
+987,8,3,3,18,Brazilian Grand Prix,2017-11-12,Kimi,Räikkönen,4,29,23.17
+987,807,7,10,18,Brazilian Grand Prix,2017-11-12,Nico,Hülkenberg,4,30,24.054
+987,832,8,11,18,Brazilian Grand Prix,2017-11-12,Carlos,Sainz,4,31,23.55
+987,815,5,9,18,Brazilian Grand Prix,2017-11-12,Sergio,Pérez,4,35,23.275
+987,1,20,4,18,Brazilian Grand Prix,2017-11-12,Lewis,Hamilton,4,43,23.121
+987,817,14,6,18,Brazilian Grand Prix,2017-11-12,Daniel,Ricciardo,4,43,23.484
+987,842,19,12,18,Brazilian Grand Prix,2017-11-12,Pierre,Gasly,4,44,23.748
+987,828,17,13,18,Brazilian Grand Prix,2017-11-12,Marcus,Ericsson,4,44,24.164
+987,154,11,15,18,Brazilian Grand Prix,2017-11-12,Romain,Grosjean,4,48,34.438
+987,830,4,5,18,Brazilian Grand Prix,2017-11-12,Max,Verstappen,5,62,22.644
+987,840,16,16,18,Brazilian Grand Prix,2017-11-12,Lance,Stroll,5,67,24.756
+1008,4,17,17,18,Brazilian Grand Prix,2018-11-11,Fernando,Alonso,1,15,33.753
+1008,845,14,16,18,Brazilian Grand Prix,2018-11-11,Sergey,Sirotkin,1,16,23.273
+1008,840,19,18,18,Brazilian Grand Prix,2018-11-11,Lance,Stroll,1,17,24.608
+1008,822,3,5,18,Brazilian Grand Prix,2018-11-11,Valtteri,Bottas,1,18,22.955
+1008,828,6,20,18,Brazilian Grand Prix,2018-11-11,Marcus,Ericsson,1,18,23.377
+1008,1,1,1,18,Brazilian Grand Prix,2018-11-11,Lewis,Hamilton,1,19,22.641
+1008,842,9,13,18,Brazilian Grand Prix,2018-11-11,Pierre,Gasly,1,22,23.757
+1008,832,15,12,18,Brazilian Grand Prix,2018-11-11,Carlos,Sainz,1,25,23.939
+1008,20,2,6,18,Brazilian Grand Prix,2018-11-11,Sebastian,Vettel,1,27,22.551
+1008,838,20,14,18,Brazilian Grand Prix,2018-11-11,Stoffel,Vandoorne,1,28,22.618
+1008,8,4,3,18,Brazilian Grand Prix,2018-11-11,Kimi,Räikkönen,1,31,22.766
+1008,154,8,8,18,Brazilian Grand Prix,2018-11-11,Romain,Grosjean,1,32,23.403
+1008,830,5,2,18,Brazilian Grand Prix,2018-11-11,Max,Verstappen,1,35,23.432
+1008,844,7,7,18,Brazilian Grand Prix,2018-11-11,Charles,Leclerc,1,35,23.593
+1008,817,11,4,18,Brazilian Grand Prix,2018-11-11,Daniel,Ricciardo,1,39,23.3
+1008,815,12,10,18,Brazilian Grand Prix,2018-11-11,Sergio,Pérez,1,39,23.505
+1008,839,18,15,18,Brazilian Grand Prix,2018-11-11,Esteban,Ocon,1,40,27.226
+1008,825,10,9,18,Brazilian Grand Prix,2018-11-11,Kevin,Magnussen,1,41,23.115
+1008,832,15,12,18,Brazilian Grand Prix,2018-11-11,Carlos,Sainz,2,48,23.77
+1008,843,16,11,18,Brazilian Grand Prix,2018-11-11,Brendon,Hartley,1,49,23.422
+1008,20,2,6,18,Brazilian Grand Prix,2018-11-11,Sebastian,Vettel,2,53,22.683
+1008,4,17,17,18,Brazilian Grand Prix,2018-11-11,Fernando,Alonso,2,54,23.046
+1008,839,18,15,18,Brazilian Grand Prix,2018-11-11,Esteban,Ocon,2,57,31.198
+1008,822,3,5,18,Brazilian Grand Prix,2018-11-11,Valtteri,Bottas,2,59,22.727
+1008,840,19,18,18,Brazilian Grand Prix,2018-11-11,Lance,Stroll,2,65,24.283
+1029,817,11,6,18,Brazilian Grand Prix,2019-11-17,Daniel,Ricciardo,1,8,30.76
+1029,815,15,9,18,Brazilian Grand Prix,2019-11-17,Sergio,Pérez,1,17,23.079
+1029,1,3,7,18,Brazilian Grand Prix,2019-11-17,Lewis,Hamilton,1,20,22.882
+1029,841,12,5,18,Brazilian Grand Prix,2019-11-17,Antonio,Giovinazzi,1,20,23.155
+1029,9,19,16,18,Brazilian Grand Prix,2019-11-17,Robert,Kubica,1,20,23.861
+1029,830,1,1,18,Brazilian Grand Prix,2019-11-17,Max,Verstappen,1,21,22.818
+1029,8,8,4,18,Brazilian Grand Prix,2019-11-17,Kimi,Räikkönen,1,21,23.463
+1029,842,6,2,18,Brazilian Grand Prix,2019-11-17,Pierre,Gasly,1,22,22.922
+1029,826,16,10,18,Brazilian Grand Prix,2019-11-17,Daniil,Kvyat,1,23,22.759
+1029,847,18,12,18,Brazilian Grand Prix,2019-11-17,George,Russell,1,23,22.5
+1029,848,5,14,18,Brazilian Grand Prix,2019-11-17,Alexander,Albon,1,24,23.073
+1029,20,2,17,18,Brazilian Grand Prix,2019-11-17,Sebastian,Vettel,1,25,23.039
+1029,822,4,20,18,Brazilian Grand Prix,2019-11-17,Valtteri,Bottas,1,26,23.148
+1029,154,7,13,18,Brazilian Grand Prix,2019-11-17,Romain,Grosjean,1,26,23.776
+1029,846,10,8,18,Brazilian Grand Prix,2019-11-17,Lando,Norris,1,27,23.381
+1029,807,13,15,18,Brazilian Grand Prix,2019-11-17,Nico,Hülkenberg,1,27,23.344
+1029,825,9,11,18,Brazilian Grand Prix,2019-11-17,Kevin,Magnussen,1,27,23.891
+1029,840,17,19,18,Brazilian Grand Prix,2019-11-17,Lance,Stroll,1,28,23.346
+1029,844,14,18,18,Brazilian Grand Prix,2019-11-17,Charles,Leclerc,1,29,22.966
+1029,832,20,3,18,Brazilian Grand Prix,2019-11-17,Carlos,Sainz,1,29,22.77
+1029,9,19,16,18,Brazilian Grand Prix,2019-11-17,Robert,Kubica,2,36,29.268
+1029,817,11,6,18,Brazilian Grand Prix,2019-11-17,Daniel,Ricciardo,2,40,29.491
+1029,822,4,20,18,Brazilian Grand Prix,2019-11-17,Valtteri,Bottas,2,41,23.21
+1029,1,3,7,18,Brazilian Grand Prix,2019-11-17,Lewis,Hamilton,2,43,23.088
+1029,830,1,1,18,Brazilian Grand Prix,2019-11-17,Max,Verstappen,2,44,22.657
+1029,807,13,15,18,Brazilian Grand Prix,2019-11-17,Nico,Hülkenberg,2,44,23.596
+1029,815,15,9,18,Brazilian Grand Prix,2019-11-17,Sergio,Pérez,2,45,23.142
+1029,841,12,5,18,Brazilian Grand Prix,2019-11-17,Antonio,Giovinazzi,2,46,23.524
+1029,826,16,10,18,Brazilian Grand Prix,2019-11-17,Daniil,Kvyat,2,46,23.378
+1029,842,6,2,18,Brazilian Grand Prix,2019-11-17,Pierre,Gasly,2,47,23.584
+1029,8,8,4,18,Brazilian Grand Prix,2019-11-17,Kimi,Räikkönen,2,47,23.841
+1029,20,2,17,18,Brazilian Grand Prix,2019-11-17,Sebastian,Vettel,2,49,23.138
+1029,848,5,14,18,Brazilian Grand Prix,2019-11-17,Alexander,Albon,2,50,23.071
+1029,830,1,1,18,Brazilian Grand Prix,2019-11-17,Max,Verstappen,3,54,22.593
+1029,846,10,8,18,Brazilian Grand Prix,2019-11-17,Lando,Norris,2,53,23.355
+1029,840,17,19,18,Brazilian Grand Prix,2019-11-17,Lance,Stroll,2,53,24.841
+1029,825,9,11,18,Brazilian Grand Prix,2019-11-17,Kevin,Magnussen,2,53,23.479
+1029,844,14,18,18,Brazilian Grand Prix,2019-11-17,Charles,Leclerc,2,54,23.042
+1029,807,13,15,18,Brazilian Grand Prix,2019-11-17,Nico,Hülkenberg,3,53,22.747
+1029,9,19,16,18,Brazilian Grand Prix,2019-11-17,Robert,Kubica,3,53,24.873
+1029,847,18,12,18,Brazilian Grand Prix,2019-11-17,George,Russell,2,54,23.199
+1029,154,7,13,18,Brazilian Grand Prix,2019-11-17,Romain,Grosjean,2,65,23.471
+1029,1,3,7,18,Brazilian Grand Prix,2019-11-17,Lewis,Hamilton,3,66,23.06
+1029,847,18,12,18,Brazilian Grand Prix,2019-11-17,George,Russell,3,66,22.441
+1029,9,19,16,18,Brazilian Grand Prix,2019-11-17,Robert,Kubica,4,66,23.158
+1071,846,5,10,18,São Paulo Grand Prix,2021-11-14,Lando,Norris,1,1,27.313
+1071,852,15,15,18,São Paulo Grand Prix,2021-11-14,Yuki,Tsunoda,1,4,31.939
+1071,847,17,13,18,São Paulo Grand Prix,2021-11-14,George,Russell,1,6,22.978
+1071,852,15,15,18,São Paulo Grand Prix,2021-11-14,Yuki,Tsunoda,2,6,17.758
+1071,846,5,10,18,São Paulo Grand Prix,2021-11-14,Lando,Norris,2,6,17.719
+1071,830,2,2,18,São Paulo Grand Prix,2021-11-14,Max,Verstappen,1,7,17.916
+1071,815,4,4,18,São Paulo Grand Prix,2021-11-14,Sergio,Pérez,1,7,18.308
+1071,1,10,1,18,São Paulo Grand Prix,2021-11-14,Lewis,Hamilton,1,7,17.91
+1071,822,1,3,18,São Paulo Grand Prix,2021-11-14,Valtteri,Bottas,1,7,17.899
+1071,844,6,5,18,São Paulo Grand Prix,2021-11-14,Charles,Leclerc,1,7,17.943
+1071,832,3,6,18,São Paulo Grand Prix,2021-11-14,Carlos,Sainz,1,7,18.46
+1071,20,9,11,18,São Paulo Grand Prix,2021-11-14,Sebastian,Vettel,1,7,18.107
+1071,842,7,7,18,São Paulo Grand Prix,2021-11-14,Pierre,Gasly,1,7,19.439
+1071,839,8,8,18,São Paulo Grand Prix,2021-11-14,Esteban,Ocon,1,7,19.285
+1071,817,11,19,18,São Paulo Grand Prix,2021-11-14,Daniel,Ricciardo,1,7,19.732
+1071,4,12,9,18,São Paulo Grand Prix,2021-11-14,Fernando,Alonso,1,7,17.751
+1071,840,14,20,18,São Paulo Grand Prix,2021-11-14,Lance,Stroll,1,7,17.948
+1071,841,13,14,18,São Paulo Grand Prix,2021-11-14,Antonio,Giovinazzi,1,7,17.713
+1071,853,19,17,18,São Paulo Grand Prix,2021-11-14,Nikita,Mazepin,1,7,17.995
+1071,854,18,18,18,São Paulo Grand Prix,2021-11-14,Mick,Schumacher,1,7,17.861
+1071,849,16,16,18,São Paulo Grand Prix,2021-11-14,Nicholas,Latifi,1,7,18.153
+1071,8,0,12,18,São Paulo Grand Prix,2021-11-14,Kimi,Räikkönen,1,7,18.327
+1071,847,17,13,18,São Paulo Grand Prix,2021-11-14,George,Russell,2,7,20.844
+1071,852,15,15,18,São Paulo Grand Prix,2021-11-14,Yuki,Tsunoda,3,7,17.711
+1071,846,5,10,18,São Paulo Grand Prix,2021-11-14,Lando,Norris,3,7,17.673000000000002
+1071,830,2,2,18,São Paulo Grand Prix,2021-11-14,Max,Verstappen,2,8,17.807
+1071,815,4,4,18,São Paulo Grand Prix,2021-11-14,Sergio,Pérez,2,8,18.136
+1071,1,10,1,18,São Paulo Grand Prix,2021-11-14,Lewis,Hamilton,2,8,18.66
+1071,822,1,3,18,São Paulo Grand Prix,2021-11-14,Valtteri,Bottas,2,8,17.837
+1071,844,6,5,18,São Paulo Grand Prix,2021-11-14,Charles,Leclerc,2,8,17.771
+1071,832,3,6,18,São Paulo Grand Prix,2021-11-14,Carlos,Sainz,2,8,18.373
+1071,20,9,11,18,São Paulo Grand Prix,2021-11-14,Sebastian,Vettel,2,8,17.896
+1071,842,7,7,18,São Paulo Grand Prix,2021-11-14,Pierre,Gasly,2,8,18.608
+1071,839,8,8,18,São Paulo Grand Prix,2021-11-14,Esteban,Ocon,2,8,17.818
+1071,817,11,19,18,São Paulo Grand Prix,2021-11-14,Daniel,Ricciardo,2,8,18.347
+1071,4,12,9,18,São Paulo Grand Prix,2021-11-14,Fernando,Alonso,2,8,17.705
+1071,840,14,20,18,São Paulo Grand Prix,2021-11-14,Lance,Stroll,2,8,17.935
+1071,841,13,14,18,São Paulo Grand Prix,2021-11-14,Antonio,Giovinazzi,2,8,17.929
+1071,853,19,17,18,São Paulo Grand Prix,2021-11-14,Nikita,Mazepin,2,8,18.467
+1071,854,18,18,18,São Paulo Grand Prix,2021-11-14,Mick,Schumacher,2,8,18.588
+1071,849,16,16,18,São Paulo Grand Prix,2021-11-14,Nicholas,Latifi,2,8,18.784
+1071,8,0,12,18,São Paulo Grand Prix,2021-11-14,Kimi,Räikkönen,2,8,18.763
+1071,847,17,13,18,São Paulo Grand Prix,2021-11-14,George,Russell,3,8,18.179
+1071,852,15,15,18,São Paulo Grand Prix,2021-11-14,Yuki,Tsunoda,4,8,18.499
+1071,846,5,10,18,São Paulo Grand Prix,2021-11-14,Lando,Norris,4,8,19.176
+1071,854,18,18,18,São Paulo Grand Prix,2021-11-14,Mick,Schumacher,3,11,41.173
+1071,849,16,16,18,São Paulo Grand Prix,2021-11-14,Nicholas,Latifi,3,13,22.936
+1071,840,14,20,18,São Paulo Grand Prix,2021-11-14,Lance,Stroll,3,22,24.997
+1071,842,7,7,18,São Paulo Grand Prix,2021-11-14,Pierre,Gasly,3,25,23.116
+1071,1,10,1,18,São Paulo Grand Prix,2021-11-14,Lewis,Hamilton,3,26,22.69
+1071,832,3,6,18,São Paulo Grand Prix,2021-11-14,Carlos,Sainz,3,26,23.321
+1071,830,2,2,18,São Paulo Grand Prix,2021-11-14,Max,Verstappen,3,27,22.722
+1071,844,6,5,18,São Paulo Grand Prix,2021-11-14,Charles,Leclerc,3,27,22.667
+1071,815,4,4,18,São Paulo Grand Prix,2021-11-14,Sergio,Pérez,3,28,23.165
+1071,20,9,11,18,São Paulo Grand Prix,2021-11-14,Sebastian,Vettel,3,28,24.464
+1071,8,0,12,18,São Paulo Grand Prix,2021-11-14,Kimi,Räikkönen,3,28,23.541
+1071,841,13,14,18,São Paulo Grand Prix,2021-11-14,Antonio,Giovinazzi,3,29,23.618
+1071,822,1,3,18,São Paulo Grand Prix,2021-11-14,Valtteri,Bottas,3,30,23.263
+1071,854,18,18,18,São Paulo Grand Prix,2021-11-14,Mick,Schumacher,4,29,25.597
+1071,817,11,19,18,São Paulo Grand Prix,2021-11-14,Daniel,Ricciardo,3,30,22.839
+1071,839,8,8,18,São Paulo Grand Prix,2021-11-14,Esteban,Ocon,3,30,23.504
+1071,4,12,9,18,São Paulo Grand Prix,2021-11-14,Fernando,Alonso,3,34,24.375
+1071,853,19,17,18,São Paulo Grand Prix,2021-11-14,Nikita,Mazepin,3,34,23.546
+1071,846,5,10,18,São Paulo Grand Prix,2021-11-14,Lando,Norris,5,37,24.211
+1071,852,15,15,18,São Paulo Grand Prix,2021-11-14,Yuki,Tsunoda,5,39,35.416
+1071,849,16,16,18,São Paulo Grand Prix,2021-11-14,Nicholas,Latifi,4,39,22.958
+1071,830,2,2,18,São Paulo Grand Prix,2021-11-14,Max,Verstappen,4,40,22.766
+1071,822,1,3,18,São Paulo Grand Prix,2021-11-14,Valtteri,Bottas,4,41,22.856
+1071,847,17,13,18,São Paulo Grand Prix,2021-11-14,George,Russell,4,41,23.132
+1071,815,4,4,18,São Paulo Grand Prix,2021-11-14,Sergio,Pérez,4,42,22.656
+1071,841,13,14,18,São Paulo Grand Prix,2021-11-14,Antonio,Giovinazzi,4,42,22.83
+1071,1,10,1,18,São Paulo Grand Prix,2021-11-14,Lewis,Hamilton,4,43,22.664
+1071,842,7,7,18,São Paulo Grand Prix,2021-11-14,Pierre,Gasly,4,51,23.039
+1071,844,6,5,18,São Paulo Grand Prix,2021-11-14,Charles,Leclerc,4,52,23.064
+1071,8,0,12,18,São Paulo Grand Prix,2021-11-14,Kimi,Räikkönen,4,52,22.666
+1071,832,3,6,18,São Paulo Grand Prix,2021-11-14,Carlos,Sainz,4,53,22.745
+1071,20,9,11,18,São Paulo Grand Prix,2021-11-14,Sebastian,Vettel,4,55,22.978
+1071,854,18,18,18,São Paulo Grand Prix,2021-11-14,Mick,Schumacher,5,61,24.627
+1071,815,4,4,18,São Paulo Grand Prix,2021-11-14,Sergio,Pérez,5,69,22.916
+1095,848,19,15,18,Brazilian Grand Prix,2022-11-13,Alexander,Albon,1,4,24.361
+1095,830,3,6,18,Brazilian Grand Prix,2022-11-13,Max,Verstappen,1,7,30.942
+1095,844,5,4,18,Brazilian Grand Prix,2022-11-13,Charles,Leclerc,1,7,30.08
+1095,4,17,5,18,Brazilian Grand Prix,2022-11-13,Fernando,Alonso,1,14,23.478
+1095,855,13,12,18,Brazilian Grand Prix,2022-11-13,Guanyu,Zhou,1,16,24.332
+1095,832,7,3,18,Brazilian Grand Prix,2022-11-13,Carlos,Sainz,1,17,25.206
+1095,842,10,14,18,Brazilian Grand Prix,2022-11-13,Pierre,Gasly,1,19,23.46
+1095,852,0,17,18,Brazilian Grand Prix,2022-11-13,Yuki,Tsunoda,1,20,23.287
+1095,849,18,16,18,Brazilian Grand Prix,2022-11-13,Nicholas,Latifi,1,20,28.807
+1095,844,5,4,18,Brazilian Grand Prix,2022-11-13,Charles,Leclerc,2,21,23.172
+1095,815,4,7,18,Brazilian Grand Prix,2022-11-13,Sergio,Pérez,1,23,22.869
+1095,830,3,6,18,Brazilian Grand Prix,2022-11-13,Max,Verstappen,2,23,31.682
+1095,847,1,1,18,Brazilian Grand Prix,2022-11-13,George,Russell,1,24,23.521
+1095,846,6,18,18,Brazilian Grand Prix,2022-11-13,Lando,Norris,1,24,29.338
+1095,822,14,9,18,Brazilian Grand Prix,2022-11-13,Valtteri,Bottas,1,24,23.908
+1095,839,16,8,18,Brazilian Grand Prix,2022-11-13,Esteban,Ocon,1,24,23.868
+1095,854,12,13,18,Brazilian Grand Prix,2022-11-13,Mick,Schumacher,1,24,24.487
+1095,848,19,15,18,Brazilian Grand Prix,2022-11-13,Alexander,Albon,2,25,23.352
+1095,20,9,11,18,Brazilian Grand Prix,2022-11-13,Sebastian,Vettel,1,26,24.248
+1095,1,2,2,18,Brazilian Grand Prix,2022-11-13,Lewis,Hamilton,1,29,24.081
+1095,840,15,10,18,Brazilian Grand Prix,2022-11-13,Lance,Stroll,1,29,23.469
+1095,849,18,16,18,Brazilian Grand Prix,2022-11-13,Nicholas,Latifi,2,32,24.292
+1095,4,17,5,18,Brazilian Grand Prix,2022-11-13,Fernando,Alonso,2,35,28.855
+1095,842,10,14,18,Brazilian Grand Prix,2022-11-13,Pierre,Gasly,2,35,23.328
+1095,832,7,3,18,Brazilian Grand Prix,2022-11-13,Carlos,Sainz,2,36,23.483
+1095,855,13,12,18,Brazilian Grand Prix,2022-11-13,Guanyu,Zhou,2,37,25.111
+1095,852,0,17,18,Brazilian Grand Prix,2022-11-13,Yuki,Tsunoda,2,40,23.645
+1095,844,5,4,18,Brazilian Grand Prix,2022-11-13,Charles,Leclerc,3,44,23.124
+1095,822,14,9,18,Brazilian Grand Prix,2022-11-13,Valtteri,Bottas,2,45,24.616
+1095,20,9,11,18,Brazilian Grand Prix,2022-11-13,Sebastian,Vettel,2,45,24.028
+1095,846,6,18,18,Brazilian Grand Prix,2022-11-13,Lando,Norris,2,45,24.669
+1095,854,12,13,18,Brazilian Grand Prix,2022-11-13,Mick,Schumacher,2,46,25.156
+1095,815,4,7,18,Brazilian Grand Prix,2022-11-13,Sergio,Pérez,2,47,23.152
+1095,839,16,8,18,Brazilian Grand Prix,2022-11-13,Esteban,Ocon,2,47,24.445
+1095,848,19,15,18,Brazilian Grand Prix,2022-11-13,Alexander,Albon,3,47,23.322
+1095,1,2,2,18,Brazilian Grand Prix,2022-11-13,Lewis,Hamilton,2,48,23.415
+1095,830,3,6,18,Brazilian Grand Prix,2022-11-13,Max,Verstappen,3,48,24.102
+1095,840,15,10,18,Brazilian Grand Prix,2022-11-13,Lance,Stroll,2,48,23.764
+1095,847,1,1,18,Brazilian Grand Prix,2022-11-13,George,Russell,2,49,23.48
+1095,4,17,5,18,Brazilian Grand Prix,2022-11-13,Fernando,Alonso,3,52,23.79
+1095,842,10,14,18,Brazilian Grand Prix,2022-11-13,Pierre,Gasly,3,52,23.009
+1095,832,7,3,18,Brazilian Grand Prix,2022-11-13,Carlos,Sainz,3,53,23.816
+1095,849,18,16,18,Brazilian Grand Prix,2022-11-13,Nicholas,Latifi,3,52,23.64
+1095,852,0,17,18,Brazilian Grand Prix,2022-11-13,Yuki,Tsunoda,3,54,23.635
