@@ -21,11 +21,11 @@
 ### A query utilizada foi:
 ```sql
 SELECT *
-FROM dimensao_corridas c
-INNER JOIN fato_pit_stops ps ON ps."raceId" = c."raceId"
-INNER JOIN dimensao_pilotos dp ON dp."driverId" = ps."driverId"
-INNER JOIN fato_resultados r ON r."driverId" = dp."driverId"
-WHERE c."circuitId" = 18
+FROM fato_resultados
+INNER JOIN dimensao_corridas ON fato_resultados."raceId" = dimensao_corridas."raceId"
+INNER JOIN dimensao_pilotos ON dimensao_pilotos."driverId" = fato_resultados."driverId"
+INNER JOIN fato_pit_stops ON fato_resultados."raceId" = fato_pit_stops."raceId" AND fato_resultados."driverId" = fato_pit_stops."driverId"
+WHERE dimensao_corridas."circuitId" = 18
 ```
 
 </br>
