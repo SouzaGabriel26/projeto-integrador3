@@ -30,7 +30,7 @@ WHERE dimensao_corridas."circuitId" = 18
 
 </br>
 
-### A partir de agora, para realizar a Análise exploratória e a previsão, usaremos o arquivo Interlago_infos.csv, que foi gerado pela query acima.
+### A partir de agora, para realizar a Análise exploratória e a previsão, usaremos o arquivo [Interlago_infos.csv](https://github.com/SouzaGabriel26/projeto-integrador3/blob/main/Interlagos_infos.csv), que foi gerado pela query acima.
 
 </br>
 
