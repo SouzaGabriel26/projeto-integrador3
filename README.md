@@ -1,7 +1,7 @@
 # ANÁLISE DE DADOS - corridas de formula 1 desde 1950 até 2023.
 
 <h1>Pergunta/Tema do projeto:</h1>
-<h2>"É possivel prever o próximo campeão da formula 1 com base em dados categóricos?"<h2>
+<h2>"É possivel prever o próximo campeão da formula 1 com base em dados numericos?"<h2>
 
 ## OBS: Filtrado por um só circuito, sendo o escolhido para o projeto o circuito de [Interlagos](https://pt.wikipedia.org/wiki/Aut%C3%B3dromo_de_Interlagos).
 
@@ -30,7 +30,7 @@ WHERE dimensao_corridas."circuitId" = 18
 
 </br>
 
-### A partir de agora, para realizar a Análise exploratória e a previsão, usaremos o arquivo Interlago_infos.csv, que foi gerado pela query acima.
+### A partir de agora, para realizar a Análise exploratória e a previsão, usaremos o arquivo [Interlago_infos.csv](https://github.com/SouzaGabriel26/projeto-integrador3/blob/main/Interlagos_infos.csv), que foi gerado pela query acima.
 
 </br>
 
