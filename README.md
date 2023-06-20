@@ -1,7 +1,7 @@
 # ANÁLISE DE DADOS - corridas de formula 1 desde 1950 até 2023.
 
 <h1>Pergunta/Tema do projeto:</h1>
-<h2>"É possivel prever o próximo campeão da formula 1 com base em dados numericos/categóricos?"<h2>
+<h2>"Em qual posição final um piloto ficará ao final da corrida, com base em dados numéricos/categóricos?"<h2>
 
 ## OBS: Filtrado por um só circuito, sendo o escolhido para o projeto o circuito de [Interlagos](https://pt.wikipedia.org/wiki/Aut%C3%B3dromo_de_Interlagos).
 
