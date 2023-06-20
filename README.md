@@ -12,7 +12,7 @@
 ### Os datasets utilizados para este trabalho estão disponíveis em [datasets](https://github.com/SouzaGabriel26/projeto-integrador3/tree/main/datasets).
 
 ## Diagrama ER
-![](https://github.com/SouzaGabriel26/projeto-integrador3/tree/main/images/DiagramaER.png)
+![](./images/DiagramaER.png)
 
 
 ### O arquivo [Initial_ETL.ipynb](https://github.com/SouzaGabriel26/projeto-integrador3/blob/main/Initial_ETL.ipynb) é o arquivo inicial, onde são feitas leituras e transformações nos DataFrames para salvá-los no banco. Posteriormente, os dados são recuperados do banco e unidos em um só DataFrame através de uma query. Após este processo, é gerado um arquivo excel [Interlago_infos.csv](https://github.com/SouzaGabriel26/projeto-integrador3/blob/main/Interlagos_infos.csv) sobre esses dados obtidos pela query, para trabalharmos sem a necessidade da conexão com o banco.
